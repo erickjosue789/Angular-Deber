@@ -1,0 +1,25 @@
+.card img {
+    width: 100%; /* Ancho fijo */
+    height: 400px; /* Alto fijo */
+    object-fit: cover; /* Escalar la imagen para que cubra todo el contenedor */
+    border-radius: 20px;
+}
+
+nav a, h2{
+    color: white;
+}
+
+.card {
+    background-color: rgba(0, 128, 255, 0);
+    border-radius: 20px;
+    border-color: rgba(255, 255, 255, 0);
+}
+
+.card a{
+    background-color: white;
+    color: rgb(5, 41, 148);
+}
+
+.card-title{
+    color: white;
+}
